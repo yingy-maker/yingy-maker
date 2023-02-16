@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://dev.aspecta.id/u/daimajia" target="_blank"><img src="https://image-generator.dev.aspecta.id/generate?url=https%3A%2F%2Fdev.aspecta.id%2Fu%2Fdaimajia%2Fshare-images%2Fprofile&w=1042&h=510&dpr=2&filename=aspecta-daimajia-profile.png" width="521" height="255" /></a>
+<a href="https://dev.aspecta.id/u/daimajia" target="_blank"><img src="https://image-generator.dev.aspecta.id/generate?url=https%3A%2F%2Fdev.aspecta.id%2Fu%2Fdaimajia%2Fshare-images%2Fprofile-skills&w=322&h=524&dpr=2&filename=aspecta-daimajia-profile-skills.png" width="161" height="262" /></a>
+
+
+<a href="https://dev.aspecta.id/u/daimajia" target="_blank"><img src="https://image-generator.dev.aspecta.id/generate?url=https%3A%2F%2Fdev.aspecta.id%2Fu%2Fdaimajia%2Fshare-images%2Fprofile-interests&w=322&h=524&dpr=2&filename=aspecta-daimajia-profile-interests.png" width="161" height="262" /></a>
