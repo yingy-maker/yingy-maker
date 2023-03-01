@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![a](https://image-generator.staging.aspecta.id/profile-share-images/generate?env=staging&username=hongying90&image_name=profile-interests&w=322&h=524&dpr=2)
-<a href="https://staging.aspecta.id/u/hongying90" target="_blank"><img src="https://image-generator.staging.aspecta.id/profile-share-images/generate?env=staging&username=hongying90&image_name=profile-interests&w=322&h=524&dpr=2" width="161" height="262" /></a>
+<a href="https://staging.aspecta.id/u/Test-ying1" target="_blank"><img src="https://image-generator.staging.aspecta.id/profile-share-images/generate?env=staging&username=Test-ying1&image_name=profile-skills&w=322&h=524&dpr=2" width="161" height="262" /></a>
+<a href="https://staging.aspecta.id/u/Test-ying1" target="_blank"><img src="https://image-generator.staging.aspecta.id/profile-share-images/generate?env=staging&username=Test-ying1&image_name=profile-achievements&w=322&h=524&dpr=2" width="161" height="262" /></a>
+<a href="https://staging.aspecta.id/u/Test-ying1" target="_blank"><img src="https://image-generator.staging.aspecta.id/profile-share-images/generate?env=staging&username=Test-ying1&image_name=profile-interests&w=322&h=524&dpr=2" width="161" height="262" /></a>
+<a href="https://staging.aspecta.id/u/Test-ying1" target="_blank"><img src="https://image-generator.staging.aspecta.id/profile-share-images/generate?env=staging&username=Test-ying1&image_name=profile&w=1042&h=510&dpr=2" width="521" height="255" /></a>
