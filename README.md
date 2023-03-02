@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://aspecta.id/u/Hanna-162" target="_blank"><img src="https://image-generator.aspecta.id/profile-share-images/generate?env=production&username=Hanna-162&image_name=profile-interests&w=322&h=524&dpr=2" width="161" height="262" /></a>
+<a href="https://aspecta.id/u/Jack-Aspecta" target="_blank"><img src="https://image-generator.aspecta.id/profile-share-images/generate?env=production&username=Jack-Aspecta&image_name=profile&w=1042&h=510&dpr=2" width="521" height="255" /></a>
